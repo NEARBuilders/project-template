@@ -30,7 +30,7 @@
 ### Installing dependencies
 
 ```bash
-npm install
+pnpm install
 ```
 
 ### Running the app
@@ -38,21 +38,19 @@ npm install
 First, run the development server:
 
 ```bash
-npm run dev
+pnpm run dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
 ### Building for production
 
 ```bash
-npm run build
+pnpm run build
 ```
 
 ### Running tests
 
 ```bash
-npm run test
+pnpm run test
 ```
 
 See the full [testing guide](./playwright-tests/README.md).
